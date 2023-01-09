@@ -1,6 +1,6 @@
 
-### About
-Hi, I'm Lance Pierson 
+# About
+### Hi, I'm Lance Pierson, 
 Treyark Media is an umbrella for all of my web development work.
 
 <picture>
